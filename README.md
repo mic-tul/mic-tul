@@ -3,6 +3,8 @@
 
 I am a cybersecurity student with hands-on experience in labs, threat analysis, and security tools, and a strong interest in protecting systems and solving complex security problems.
 
+My interest in cybersecurity started when I was younger and used Cheat Engine to change values in a video game. Seeing how a change in memory could affect what happened on screen made me curious about how software works under the hood. That curiosity grew into an interest in how systems can be manipulated and how defenders can detect and prevent that activity.
+
 ## Objective
 
 My objective is to apply and expand my cybersecurity knowledge through hands-on experience in defensive security, threat detection, incident response, and cloud security. I am seeking opportunities across cybersecurity operations and engineering roles where I can strengthen my skills and contribute to protecting systems and responding to real-world threats.
@@ -68,3 +70,19 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
 ## Projects
 - <a href="https://github.com/kaspermic/Honeypot-Lab/tree/main">Honeypot Lab</a>
 - <a href="https://github.com/kaspermic/SOC-Automation-Home-Lab/tree/main">SOC Automation Home Lab</a>
+
+## National Cyber League CTF
+
+I competed in the National Cyber League (NCL) Team Game, where I practiced network traffic analysis, digital forensics, and open-source research. Working with more experienced teammates showed me how they approached unfamiliar problems under time pressure.
+
+One habit I’m changing is how I start an investigation. When I jumped into a tool before checking the input format or rereading the question, I spent time following leads that didn’t answer it. Now I first identify what I need to verify, check the input, and make sure the evidence supports my answer before submitting it.
+
+### Highlights
+
+- Used Wireshark and tshark to filter packet captures and trace how hosts communicated.
+- Cross-checked open-source clues against multiple sources before settling on an answer.
+
+### Score Reports
+
+- Individual Game — Public verification link pending
+- Team Game — Public verification link pending
