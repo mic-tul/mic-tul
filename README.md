@@ -73,16 +73,19 @@ My objective is to apply and expand my cybersecurity knowledge through hands-on 
 
 ## National Cyber League CTF
 
-I competed in the National Cyber League (NCL) Team Game, where I practiced network traffic analysis, digital forensics, and open-source research. Working with more experienced teammates showed me how they approached unfamiliar problems under time pressure.
+I competed in both the Individual and Team Games of the National Cyber League (NCL), practicing network traffic analysis, digital forensics, and open-source research. The Individual Game gave me a chance to work through challenges on my own. In the Team Game, I saw how more experienced teammates approached unfamiliar problems under time pressure.
 
-One habit I’m changing is how I start an investigation. When I jumped into a tool before checking the input format or rereading the question, I spent time following leads that didn’t answer it. Now I first identify what I need to verify, check the input, and make sure the evidence supports my answer before submitting it.
+One habit I’m changing is how I start an investigation. When I jumped into a tool before checking the input format or rereading the question, I spent time following leads that didn’t help me answer it. Now I identify what I need to verify, check the input, and make sure the evidence supports my answer before submitting it.
 
 ### Highlights
 
-- Used Wireshark and tshark to filter packet captures and trace how hosts communicated.
-- Cross-checked open-source clues against multiple sources before settling on an answer.
+- **Network Traffic Analysis:** Used Wireshark and tshark to trace conversations between hosts and investigate suspicious traffic.
+- **Log Analysis:** Compared service logs against normal activity to spot anomalies and piece together what happened.
+- **Digital Forensics:** Examined files and metadata to recover evidence and verify findings.
+- **Cryptography:** Identified how messages were encoded or encrypted and selected tools to recover the original text.
+- **Open-Source Intelligence:** Cross-checked clues across public sources before drawing conclusions.
 
 ### Score Reports
 
-- Individual Game — Public verification link pending
-- Team Game — Public verification link pending
+- [NCL Individual Game Score Report](./ncl-individual-score-report.pdf)
+- [NCL Team Game Score Report](./ncl-team-score-report.pdf)
